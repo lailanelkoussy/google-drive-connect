@@ -13,9 +13,6 @@ pip3 install google-api-python-client google-auth-httplib2 google-auth-oauthlib 
 ```
 
 
-
-
-
 # Setting up a google account to be able to access its drive 
 
 Following this tutorial : https://developers.google.com/drive/api/quickstart/python 
@@ -27,3 +24,6 @@ Following this tutorial : https://developers.google.com/drive/api/quickstart/pyt
    6. Install the client library requirements and verify the `quickstart.py` is working and enables user.
 
 
+
+
+The following code is an adaptation of the code found here: https://thepythoncode.com/article/using-google-drive--api-in-python
